@@ -1,0 +1,52 @@
+D:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.exe
+D:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.deps.json
+D:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.json
+D:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.dev.json
+D:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.dll
+D:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.pdb
+D:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csprojAssemblyReference.cache
+D:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfoInputs.cache
+D:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfo.cs
+D:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csproj.CoreCompileInputs.cache
+D:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.dll
+D:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.pdb
+D:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.genruntimeconfig.cache
+E:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.exe
+E:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.deps.json
+E:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.json
+E:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.dev.json
+E:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.dll
+E:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.pdb
+E:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csprojAssemblyReference.cache
+E:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfoInputs.cache
+E:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfo.cs
+E:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csproj.CoreCompileInputs.cache
+E:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.dll
+E:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.pdb
+E:\KS19\2 курс\ООП\Labs\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.genruntimeconfig.cache
+C:\Users\cobra\Desktop\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.exe
+C:\Users\cobra\Desktop\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.deps.json
+C:\Users\cobra\Desktop\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.json
+C:\Users\cobra\Desktop\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.dev.json
+C:\Users\cobra\Desktop\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.dll
+C:\Users\cobra\Desktop\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.pdb
+C:\Users\cobra\Desktop\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csprojAssemblyReference.cache
+C:\Users\cobra\Desktop\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfoInputs.cache
+C:\Users\cobra\Desktop\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfo.cs
+C:\Users\cobra\Desktop\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\cobra\Desktop\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.dll
+C:\Users\cobra\Desktop\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.pdb
+C:\Users\cobra\Desktop\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.genruntimeconfig.cache
+C:\Users\cobra\Desktop\Lab2Var11\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.exe
+C:\Users\cobra\Desktop\Lab2Var11\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.deps.json
+C:\Users\cobra\Desktop\Lab2Var11\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.json
+C:\Users\cobra\Desktop\Lab2Var11\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.dev.json
+C:\Users\cobra\Desktop\Lab2Var11\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.dll
+C:\Users\cobra\Desktop\Lab2Var11\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.pdb
+C:\Users\cobra\Desktop\Lab2Var11\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csprojAssemblyReference.cache
+C:\Users\cobra\Desktop\Lab2Var11\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfoInputs.cache
+C:\Users\cobra\Desktop\Lab2Var11\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfo.cs
+C:\Users\cobra\Desktop\Lab2Var11\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\cobra\Desktop\Lab2Var11\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.dll
+C:\Users\cobra\Desktop\Lab2Var11\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.pdb
+C:\Users\cobra\Desktop\Lab2Var11\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.genruntimeconfig.cache
